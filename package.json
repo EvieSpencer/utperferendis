@@ -1,0 +1,27 @@
+{
+  "name": "utperferendis",
+  "version": "1.0.0",
+  "description": "Javascript function that triggers browser to save javascript-generated content to a file",
+  "main": "file-download.js",
+  "scripts": {
+    "lint": "eslint file-download.js",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvieSpencer/utperferendis.git"
+  },
+  "keywords": [
+    "javascript",
+    "file",
+    "react",
+    "download"
+  ],
+  "author": "JohannaChristiansen",
+  "license": "MIT",
+  "homepage": "https://github.com/EvieSpencer/utperferendis.git",
+  "typings": "js-file-download.d.ts",
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
